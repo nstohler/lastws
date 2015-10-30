@@ -5,7 +5,8 @@
     'use strict';
 
     function fun() {
-        return 44;
+        return 42;
     }
+
 
 })();
